@@ -14,11 +14,5 @@ cargo run -- --input coredump.bin --output output/
 ```
 
 ## Notes
-coredump: RemoteMemData is 
 
 rddm: Q6-SFR seems to be the error message (SFR == "small fail reason"?)
-
-
-
-
-
